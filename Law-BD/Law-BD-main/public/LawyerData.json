@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/3184405/pexels-photo-3184405.jpeg?w=400&h=400&fit=crop",
+    "name": "Alice Johnson",
+    "speciality": "Property Law",
+    "experience": "8 years",
+    "licenseNumber": "PL-20458",
+    "available": false,
+    "availableDays": ["Monday", "Wednesday", "Friday"],
+    "fees": 1600
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/3775536/pexels-photo-3775536.jpeg?w=400&h=400&fit=crop",
+    "name": "Robert Smith",
+    "speciality": "Real Estate and Property",
+    "experience": "12 years",
+    "licenseNumber": "PL-19374",
+    "available": false,
+    "availableDays": ["Tuesday", "Thursday"],
+    "fees": 2400
+  },
+  {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/4427617/pexels-photo-4427617.jpeg?w=400&h=400&fit=crop",
+    "name": "Sophia Williams",
+    "speciality": "Residential Property",
+    "experience": "6 years",
+    "licenseNumber": "PL-21892",
+    "available": true,
+    "availableDays": ["Monday", "Tuesday", "Friday"],
+    "fees": 1400
+  },
+  {
+    "id": 4,
+    "image": "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?w=400&h=400&fit=crop",
+    "name": "James Brown",
+    "speciality": "Commercial Property",
+    "experience": "10 years",
+    "licenseNumber": "PL-18762",
+    "available": false,
+    "availableDays": ["Wednesday", "Saturday"],
+    "fees": 2000
+  },
+  {
+    "id": 5,
+    "image": "https://images.pexels.com/photos/775358/pexels-photo-775358.jpeg?w=400&h=400&fit=crop",
+    "name": "Emily Davis",
+    "speciality": "Property Disputes",
+    "experience": "7 years",
+    "licenseNumber": "PL-20517",
+    "available": false,
+    "availableDays": ["Monday", "Thursday"],
+    "fees": 1500
+  },
+  {
+    "id": 6,
+    "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?w=400&h=400&fit=crop",
+    "name": "Michael Lee",
+    "speciality": "Property Transactions",
+    "experience": "9 years",
+    "licenseNumber": "PL-19873",
+    "available": false,
+    "availableDays": ["Tuesday", "Friday"],
+    "fees": 1700
+  },
+  {
+    "id": 7,
+    "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?w=400&h=400&fit=crop",
+    "name": "Olivia Martinez",
+    "speciality": "Property Law",
+    "experience": "5 years",
+    "licenseNumber": "PL-22364",
+    "available": true,
+    "availableDays": ["Wednesday", "Thursday", "Saturday"],
+    "fees": 1200
+  },
+  {
+    "id": 8,
+    "image": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?w=400&h=400&fit=crop",
+    "name": "Daniel Garcia",
+    "speciality": "Land Use and Zoning",
+    "experience": "11 years",
+    "licenseNumber": "PL-19085",
+    "available": false,
+    "availableDays": ["Monday", "Wednesday", "Saturday"],
+    "fees": 2200
+  },
+  {
+    "id": 9,
+    "image": "https://images.pexels.com/photos/1181696/pexels-photo-1181696.jpeg?w=400&h=400&fit=crop",
+    "name": "Chloe Anderson",
+    "speciality": "Property and Estate",
+    "experience": "6 years",
+    "licenseNumber": "PL-21560",
+    "available": true,
+    "availableDays": ["Thursday", "Friday"],
+    "fees": 1450
+  },
+  {
+    "id": 10,
+    "image": "https://images.pexels.com/photos/2422280/pexels-photo-2422280.jpeg?w=400&h=400&fit=crop",
+    "name": "William Taylor",
+    "speciality": "Property Law",
+    "experience": "13 years",
+    "licenseNumber": "PL-17233",
+    "available": true,
+    "availableDays": ["Monday", "Tuesday", "Thursday"],
+    "fees": 3000
+  },
+  {
+    "id": 11,
+    "image": "https://images.pexels.com/photos/1181685/pexels-photo-1181685.jpeg?w=400&h=400&fit=crop",
+    "name": "Grace Miller",
+    "speciality": "Tenant-Landlord Law",
+    "experience": "4 years",
+    "licenseNumber": "PL-23012",
+    "available": true,
+    "availableDays": ["Tuesday", "Wednesday"],
+    "fees": 1000
+  },
+  {
+    "id": 12,
+    "image": "https://images.pexels.com/photos/3184287/pexels-photo-3184287.jpeg?w=400&h=400&fit=crop",
+    "name": "Henry Wilson",
+    "speciality": "Real Estate Contracts",
+    "experience": "14 years",
+    "licenseNumber": "PL-16578",
+    "available": false,
+    "availableDays": ["Thursday", "Friday", "Saturday"],
+    "fees": 2800
+  }
+]
